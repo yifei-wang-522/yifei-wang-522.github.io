@@ -1,0 +1,25 @@
+/**
+ * Styles for the add-observation.html page 
+ */
+ body{
+    font-family: Arial, sans-serif;
+ }
+.required, #error-lat, #error-lon{
+    color: red;
+}
+
+#lisence_comment{
+    color: rgb(4, 114, 158);
+}
+
+#spegue, #daob, #lat, #lon{
+    width: 165px;
+}
+
+#desc, #phn, #phe{
+    width: 500px;
+}
+
+#note{
+    width: 525px;
+}
